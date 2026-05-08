@@ -1,0 +1,5 @@
+.venv
+
+source/00_checker.ipynb
+
+processed_data/df_scaled.csv
